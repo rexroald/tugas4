@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Rex Roald Wikarsa \n 52019030 \n Teknik Informatika";
